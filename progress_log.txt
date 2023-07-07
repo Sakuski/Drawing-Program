@@ -1,0 +1,18 @@
+Wednesday 16.3.2022:
+
+Unfortunately there have been so many stuff going on with my other courses (I have 5 courses ongoing) and with summer work negotiations so I haven't been able to start this project yet. 
+Luckily there seems to be light at the end of the tunnel when it comes to coursework from other courses so during next two weeks I will be working double the amount.
+
+Wednesday 30.3.2022:
+
+Now I got my project started. I started practicing with scalafx and working with the UI. I added a mainclass and created a simple UI using
+different scalafx components such as GridPane and Canvas. Unfortunately I'm still quite far behind my deadline but usually the pace of work
+increases as the deadline gets closer. In this period I worked around 5 hours.
+
+Wednesday 13.4.2022:
+
+During this period I have done a lot. I have done great improvements in the UI and made it possible to have multiple drawings open. I have added a tree structure for drawings to store components effectively. I created classes for all drawables and defined their properties and made it possible to create instances of them and they can now technically be added to the canvas's graphics context. However, there is still not a way to add the drawables in the GUI (except a temporary add button in the File menu that adds a rectangle to the top left corner for testing purposes). Once a drawable has been put in the canvas's graphics context its properties can be edited and groups can be formed. Certain changes (e.g. rotating and scaling) can be done to whole groups as well. I have added a possibility to insert commands. However, the only command you can enter as of now is help which lists all the other commands which there are none. 
+
+During this period I started to catch up a lot with my schedule and I am now in an OK place as far as schedule is conserned. However, a lot of work is still required to get the project done before the deadline but I believe I can do it because two other courses just ended and there is now more time for this project.
+
+It is quite hard to say how much I worked because during most work sessions I got sort of addicted in doing the project and went with the flow and didn't look that much to time spend. My estimate would be that I worked at least 20 hours in this period.
